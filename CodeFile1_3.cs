@@ -7,11 +7,7 @@ public delegate void VoidBool(bool b);
 
 public delegate void VoidBoolNullable(bool? b);
 
-#if ASYNC
-public delegate Task TaskBoolNullable(bool? b);
-#else
-public delegate void TaskBoolNullable(bool? b);
-#endif
+
 
 public delegate void VoidBoolNullableObject(bool? b, object o);
 
@@ -45,11 +41,7 @@ public delegate string StringStringHandler(string s);
 
 public delegate string StringStringByteArrayHandler(string s, byte[] b);
 
-#if ASYNC
-public delegate Task TaskT<T>(T t);
-#else
-public delegate void TaskT<T>(T t);
-#endif
+
 
 public delegate void VoidT<T>(T t);
 
@@ -57,11 +49,7 @@ public delegate void VoidT3<T, U, Z>(T t, U u, Z z);
 
 public delegate void VoidVoid();
 
-#if ASYNC
-public delegate Task TaskVoid();
-#else
-public delegate void TaskVoid();
-#endif
+
 
 
 public delegate void VoidListT<T>(List<T> c);
