@@ -1,0 +1,1 @@
+public delegate void StatusBroadcasterHandler(string del);

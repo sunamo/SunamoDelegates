@@ -1,0 +1,1 @@
+public delegate void VoidDouble(double c);
