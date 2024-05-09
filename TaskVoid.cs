@@ -1,10 +1,18 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SunamoDelegates;
+namespace
+#if SunamoCl
+SunamoCl
+#elif SunamoShared
+SunamoShared
+#else SunamoDelegates
+SunamoDelegates
+#endif
+;
 #if ASYNC
 public delegate Task TaskVoid();
 #else
