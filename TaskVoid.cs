@@ -9,7 +9,7 @@ namespace
 SunamoCl
 #elif SunamoShared
 SunamoShared
-#else SunamoDelegates
+#else
 SunamoDelegates
 #endif
 ;

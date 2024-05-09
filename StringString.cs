@@ -2,7 +2,7 @@
 namespace
 #if SunamoCl
 SunamoCl
-#else SunamoDelegates
+#else
 SunamoDelegates
 #endif
 ;

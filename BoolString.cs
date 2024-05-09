@@ -6,7 +6,7 @@ SunamoHttp
 SunamoShared
 #elif SunamoUri
 SunamoUri
-#else SunamoDelegates
+#else
 SunamoDelegates
 #endif
 ;
