@@ -1,5 +1,4 @@
 
-namespace SunamoDelegates;
 
 namespace
 #if SunamoCl
