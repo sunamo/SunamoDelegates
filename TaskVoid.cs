@@ -7,6 +7,8 @@ SunamoBts
 SunamoShared
 #elif SunamoAsync
 SunamoAsync
+#elif SunamoExceptions
+SunamoExceptions
 #else
 SunamoDelegates
 #endif
