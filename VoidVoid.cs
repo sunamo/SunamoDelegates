@@ -1,5 +1,3 @@
-
-
 namespace
 #if SunamoCl
 SunamoCl
