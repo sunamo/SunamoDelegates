@@ -9,6 +9,8 @@ SunamoAsync
 SunamoInterfaces
 #elif SunamoExceptions
 SunamoExceptions
+#elif SunamoShared
+SunamoShared
 #else
 SunamoDelegates
 #endif
