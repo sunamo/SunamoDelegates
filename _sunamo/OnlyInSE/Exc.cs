@@ -1,3 +1,5 @@
+
+namespace SunamoDelegates;
 using System.Diagnostics;
 using System.Text;
 

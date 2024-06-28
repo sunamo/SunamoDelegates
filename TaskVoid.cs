@@ -1,3 +1,5 @@
+
+namespace SunamoDelegates;
 #if ASYNC
 public delegate Task TaskVoid();
 #else
