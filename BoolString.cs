@@ -1,3 +1,3 @@
 
-namespace SunamoDelegates;
-public delegate bool BoolString(string s);
+//namespace SunamoDelegates;
+//public delegate bool Func<string, bool>(string s);
