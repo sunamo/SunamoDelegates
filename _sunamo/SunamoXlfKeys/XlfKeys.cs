@@ -1,4 +1,4 @@
-namespace SunamoDelegates;
+namespace SunamoDelegates._sunamo.SunamoXlfKeys;
 
 
 
