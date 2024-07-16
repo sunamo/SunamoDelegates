@@ -1,9 +1,5 @@
 namespace SunamoDelegates._sunamo.SunamoExceptions.OnlyInSE;
 
-
-
-
-
 internal class Exc
 {
     
