@@ -1,8 +1,4 @@
-using System.Drawing;
-
 namespace SunamoDelegates;
-/*
-shared/Delegates/CodeFile1.cs
-*/
+using System.Drawing;
 
 public delegate void VoidColor(Color c);
