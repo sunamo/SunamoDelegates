@@ -12,7 +12,6 @@ global using System.Net;
 global using System.Diagnostics.CodeAnalysis;
 global using SunamoDelegates;
 global using SunamoDelegates._sunamo;
-
 global using System.Drawing;
 global using ILogger = Microsoft.Extensions.Logging.ILogger;
 global using Microsoft.Extensions.Logging;
