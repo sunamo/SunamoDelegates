@@ -1,3 +1,3 @@
 namespace SunamoDelegates;
 
-public delegate void VoidIntDouble(int nt, double d);
+public delegate void VoidIntDouble(int intValue, double doubleValue);

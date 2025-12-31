@@ -1,3 +1,3 @@
 namespace SunamoDelegates;
 
-public delegate void VoidBoolNullableObject(bool? b, object o);
+public delegate void VoidBoolNullableObject(bool? value, object obj);

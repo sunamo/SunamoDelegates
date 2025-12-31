@@ -1,3 +1,3 @@
 namespace SunamoDelegates;
 
-public delegate void StatusBroadcasterHandler(string del);
+public delegate void StatusBroadcasterHandler(string message);

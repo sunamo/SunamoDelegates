@@ -1,3 +1,3 @@
 namespace SunamoDelegates;
 
-public delegate void VoidString(string s);
+public delegate void VoidString(string text);

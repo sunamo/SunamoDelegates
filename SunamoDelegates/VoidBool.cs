@@ -1,3 +1,3 @@
 namespace SunamoDelegates;
 
-public delegate void VoidBool(bool b);
+public delegate void VoidBool(bool value);

@@ -1,3 +1,3 @@
 namespace SunamoDelegates;
 
-public delegate DateTime DateTimeDoubleDateTimeHandler(double d, DateTime dt);
+public delegate DateTime DateTimeDoubleDateTimeHandler(double value, DateTime dateTime);

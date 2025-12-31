@@ -1,3 +1,3 @@
 namespace SunamoDelegates;
 
-public delegate string StringStringHandler(string s);
+public delegate string StringStringHandler(string text);
