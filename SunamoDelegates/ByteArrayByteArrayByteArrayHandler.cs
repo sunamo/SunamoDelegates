@@ -1,3 +1,3 @@
 namespace SunamoDelegates;
 
-public delegate byte[] ByteArrayByteArrayByteArrayHandler(byte[] b1, byte[] b2);
+public delegate byte[] ByteArrayByteArrayByteArrayHandler(byte[] firstArray, byte[] secondArray);
