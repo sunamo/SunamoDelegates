@@ -1,6 +1,5 @@
 namespace SunamoDelegates;
 
-#if NET5_0_OR_GREATER
 /// <summary>
 /// Represents a method that takes a value of type T and returns a Task.
 /// </summary>
