@@ -1,5 +1,6 @@
 namespace SunamoDelegates;
 
+#if ASYNC
 /// <summary>
 /// Represents a method that takes a nullable boolean parameter and returns a Task.
 /// </summary>

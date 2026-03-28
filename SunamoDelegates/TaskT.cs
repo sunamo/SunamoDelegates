@@ -1,5 +1,6 @@
 namespace SunamoDelegates;
 
+#if ASYNC
 /// <summary>
 /// Represents a method that takes a value of type T and returns a Task.
 /// </summary>
