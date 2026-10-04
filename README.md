@@ -1,5 +1,10 @@
 # SunamoDelegates
 
+## Short description
+
+Sdílené delegáty používané napříč mnoha balíčky sady Sunamo.
+
+
 Shared delegates across many packages
 
 ## Overview
